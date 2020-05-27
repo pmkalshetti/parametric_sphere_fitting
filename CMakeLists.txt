@@ -26,9 +26,9 @@ link_directories(${Open3D_LIBRARY_DIRS} ${OSD_LIBRARY_DIRS})
 
 add_executable(
     fit_sphere
-    fit_sphere.cpp
-    mesh.cpp
-    subdiv_evaluator.cpp
-    fitting_functor.cpp
+    src/fit_sphere.cpp
+    src/mesh.cpp
+    src/subdiv_evaluator.cpp
+    src/fitting_functor.cpp
 )
 target_link_libraries(fit_sphere ${Open3D_LIBRARIES} ${OSD_LIBS})
