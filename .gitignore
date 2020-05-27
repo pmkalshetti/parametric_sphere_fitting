@@ -1,0 +1,5 @@
+build/*
+log/*
+
+# Desktop service store files
+*.DS_Store

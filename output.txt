@@ -1,0 +1,22 @@
+   1: D43.3245, F=8.16685, Rat=1.14069, 
+   2: D86.649, F=10.3455, Rat=-0.698971, D32.1045, F=10.3914, Rat=-0.715477, D11.8228, F=7.1197, Rat=0.284805, 
+   3: D11.8228, F=7.51587, Rat=-0.145809, D5.50971, F=5.3673, Rat=0.611775, 
+   4: D5.50971, F=4.10386, Rat=0.606106, 
+   5: D5.50971, F=3.77032, Rat=0.191274, 
+   6: D2.75485, F=2.83218, Rat=0.692043, TooManyFunctionEvaluation
+
+Optimization took 0.502439s
+
+Groundtruth
+Scale: [2, 1.5, 1]
+Translation: [1, 2, 3]
+
+Initial
+Scale: [1, 1, 1]
+Translation: [0, 0, 0]
+
+Optimized
+Scale: [2.35208, 1.52176, 0.955542]
+Translation: [1.08943, 2.03465, 3.01519]
+
+Press `q` to close visualizer window
